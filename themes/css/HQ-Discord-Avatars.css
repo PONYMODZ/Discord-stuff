@@ -1,3 +1,4 @@
+/*  This will always use the highest Resolution available on the Discord server's  */
 /*---------------------User's---------------------*/
 
 
@@ -37,3 +38,22 @@ background-size: cover !important;
 background: url('https://cdn.discordapp.com/avatars/193959067671068673/27b283d8a9ebfd3726c56ab362ada2ec.png?size=512') !important;
 background-size: cover !important;
 }
+
+/*--Tatsumaki#8792--*/
+.avatar-profile[style*="172002275412279296"],
+.avatar-large[style*="172002275412279296"],
+.avatar-small[style*="172002275412279296"],
+.image-EVRGPw[style*="172002275412279296"],
+.callAvatar-i2aKmR.voice-3qolcc[style*="172002275412279296"],
+.avatarDefault-3jtQoc[style*="172002275412279296"],
+.avatar-xxlarge[style*="172002275412279296"] {
+background: url('https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=1024') !important;
+background-size: cover !important;
+}
+
+
+
+
+
+
+
