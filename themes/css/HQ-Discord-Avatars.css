@@ -58,3 +58,14 @@ background-size: cover !important;
 background: url('https://cdn.discordapp.com/avatars/320882028469944330/79ce966f2d3f6129d792d47834ddf069.png?size=1024') !important;
 background-size: cover !important;
 }
+
+/*--Dyno#3861--*/
+.avatar-large[style*="155149108183695360"],
+.avatar-small[style*="155149108183695360"],
+.image-33JSyf[style*="155149108183695360"],
+.avatarDefault-35WC3R[style*="155149108183695360"],
+.avatarSpeaking-1wJCNq[style*="155149108183695360"] {
+background: url('https://cdn.discordapp.com/avatars/155149108183695360/5aeb68c29b56b3d92eddb6f46df5051c.png?size=512') !important;
+background-size: cover !important;
+}
+
