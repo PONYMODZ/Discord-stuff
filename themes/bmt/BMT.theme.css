@@ -1,0 +1,17 @@
+//META{"name":"Discord_BMT","description":"A nice wip theme.","author":"PONYMODZ","version":"0.2","source":"https://github.com/PONYMODZ/Discord-stuff"}*//
+
+@import url('https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css'); /* Animated Emojis by https://github.com/jakeoid */
+@import url('https://rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/HQ-Discord-Avatars.css'); /* My HQ BOT Avatar Repo */
+
+:root {
+--BMT-main-transparency: 0.5;
+--BMT-main-color: 255,0,178;
+--BMT-hover-color: 174,0,121;
+--BMT-pulse-color: 0,255,255;
+--BMT-pulseselect-color: 255,255,255;
+--BMT-memberheader-color: 0,255,255;
+--BMT-memberheadertext-color: 255,255,255;
+--BMT-background: url('https://i.imgur.com/x8ajUyb.jpg');
+--BMT-load-background: url('https://i.imgur.com/8E1Rgb5.png');
+--BMT-friends: url('https://i.imgur.com/YAIHRAf.gif');
+}
