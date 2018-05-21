@@ -848,6 +848,15 @@ border-color: rgba(0,0,0,.6);
 background-color: rgba(var(--BMT-main-color),1);
 }
 
+.theme-dark .private-channel-call.minimum 
+.private-channel-call-actions .center {
+border-color: transparent;
+}
+
+.theme-dark .tiles-2aXG_k {
+box-shadow: 0 2px 5px rgba(0,0,0,.2), 0 0 0 1px rgba(0,0,0,.6);
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
@@ -1758,7 +1767,9 @@ box-shadow: none;
 .theme-dark .embedInner-1-fpTo, .regionSelectModal-12e-57,
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3,
 .theme-dark .colorPickerCustom-2CWBn2, .authBox-hW6HRx,
-.wrapper-3Q5DdO, .theme-dark .wrapper-1cBijl {
+.wrapper-3Q5DdO, .theme-dark .wrapper-1cBijl,
+.theme-dark .private-channel-call.minimum 
+.private-channel-call-actions .center{
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .theme-dark .headerBar-UHpsPw,
@@ -1776,7 +1787,9 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .theme-dark .private-channel-recipients-invite .friend,
 .userSettingsVoice-iwdUCU .media-engine-video,
 .popout-open .header-2o-2hj, .unread-1Dp-OI,
-.theme-dark .noChannel-Z1DQK7 {
+.theme-dark .noChannel-Z1DQK7,
+.theme-dark .private-channel-call, .video-1FfuMD,
+.theme-dark .tiles-2aXG_k  {
 background-color: rgba(0,0,0,.0);
 }
 
