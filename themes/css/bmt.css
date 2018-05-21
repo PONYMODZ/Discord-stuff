@@ -762,7 +762,13 @@ fill: rgba(var(--BMT-unread-color),1);
 color: rgba(var(--BMT-unread-color),1);
 }
 
+.wrapper-3Q5DdO {
+background: transparent;
+}
 
+.image-2jyRAK.loaded-3PtF_J {
+opacity: 0;	
+}
 
 /*--Toast--*/
 .toast {
@@ -1645,7 +1651,8 @@ box-shadow: none;
 .private-channel-recipients-invite .body .scroller, .search-bar-tag,
 .theme-dark .embedInner-1-fpTo, .regionSelectModal-12e-57,
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3,
-.theme-dark .colorPickerCustom-2CWBn2 {
+.theme-dark .colorPickerCustom-2CWBn2, .authBox-hW6HRx,
+.wrapper-3Q5DdO {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .theme-dark .headerBar-UHpsPw,
