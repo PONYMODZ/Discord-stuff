@@ -850,6 +850,15 @@ background: rgba(var(--BMT-main-color),1) !important;
 box-shadow: 0 0 0 1px rgba(0,0,0,.6), 0 2px 10px 0 rgba(0,0,0,.2) !important;
 }
 
+[class*="cardPrimaryEditable"] {
+border-color: rgba(0,0,0,var(--BMT-main-transparency)) !important;
+background-color: rgba(0,0,0,var(--BMT-main-transparency)) !important;
+}
+
+[class*="titleChecked"] {
+color: rgba(var(--BMT-main-color),1) !important;
+}
+
 /*--BOT/AKA Tag--*/
 .aka-1mqp34,
 .botTagRegular-2HEhHi,
