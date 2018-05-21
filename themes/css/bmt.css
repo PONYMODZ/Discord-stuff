@@ -865,6 +865,21 @@ border: 4px solid rgba(var(--BMT-main-color),1)
 background-color: rgba(var(--BMT-main-color),1);
 }
 
+.theme-dark .incomingCallInner-2rV0UJ {
+background-color: rgba(0,0,0,var(--BMT-main-transparency));
+border-color: rgba(0,0,0,var(--BMT-main-transparency));
+}
+
+.theme-dark .lookFilled-1Gx00P.colorTransparent-1ewNp9 {
+background-color: rgba(var(--BMT-main-color),1)
+}
+
+.theme-dark .lookFilled-1Gx00P.colorTransparent-1ewNp9:hover {
+background-color: rgba(var(--BMT-hover-color),1);
+-webkit-animation: glitch 750ms infinite;
+animation: glitch 750ms infinite;
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
