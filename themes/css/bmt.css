@@ -1669,7 +1669,8 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .theme-dark .private-channel-recipients-invite .friend.selected,
 .theme-dark .private-channel-recipients-invite .friend,
 .userSettingsVoice-iwdUCU .media-engine-video,
-.popout-open .header-2o-2hj, .unread-1Dp-OI {
+.popout-open .header-2o-2hj, .unread-1Dp-OI,
+.theme-dark .noChannel-Z1DQK7 {
 background-color: rgba(0,0,0,.0);
 }
 
