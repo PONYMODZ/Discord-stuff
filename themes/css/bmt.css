@@ -844,6 +844,10 @@ background-color: rgba(0,0,0,.3);
 border-color: rgba(0,0,0,.6);
 }
 
+#friends .friends-empty .btn {
+background-color: rgba(var(--BMT-main-color),1);
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
