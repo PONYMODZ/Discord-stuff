@@ -885,6 +885,12 @@ animation: glitch 750ms infinite;
 animation: glitch 750ms infinite;
 }
 
+.placeholderAvatar-uzH8f6,
+.placeholderUsername-236yYU,
+.memberGroupsPlaceholder-3mwPub {
+background: rgba(0,0,0,var(--BMT-main-transparency));
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
