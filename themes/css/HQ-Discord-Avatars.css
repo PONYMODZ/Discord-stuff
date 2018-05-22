@@ -49,13 +49,13 @@ background: url('https://cdn.discordapp.com/avatars/235088799074484224/16c197c4c
 background-size: cover !important;
 }
 
-/*--Red#8062 (NCS)--*/
-.avatar-large[style*="320882028469944330"],
-.avatar-small[style*="320882028469944330"],
-.image-33JSyf[style*="320882028469944330"],
-.avatarDefault-35WC3R[style*="320882028469944330"],
-.avatarSpeaking-1wJCNq[style*="320882028469944330"] {
-background: url('https://cdn.discordapp.com/avatars/320882028469944330/79ce966f2d3f6129d792d47834ddf069.png?size=1024') !important;
+/*--Nadeko#6685--*/
+.avatar-large[style*="116275390695079945"],
+.avatar-small[style*="116275390695079945"],
+.image-33JSyf[style*="116275390695079945"],
+.avatarDefault-35WC3R[style*="116275390695079945"],
+.avatarSpeaking-1wJCNq[style*="116275390695079945"] {
+background: url('https://cdn.discordapp.com/avatars/116275390695079945/0de545b2efc0baeda0fbf458f3f884dc.png?size=512') !important;
 background-size: cover !important;
 }
 
