@@ -679,7 +679,8 @@ background-color: hsla(0,0%,100%,.04);
 background-color: transparent;
 }
 
-::selection {
+::selection,
+.note-3kmerW textarea::selection {
 color: black;
 background: rgba(var(--BMT-main-color),1);
 }
