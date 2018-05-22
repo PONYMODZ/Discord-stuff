@@ -78,3 +78,23 @@ background-size: cover !important;
 background: url('https://cdn.discordapp.com/avatars/275813801792634880/00cb52ff076af727558f8830bcd2c63a.png?size=1024') !important;
 background-size: cover !important;
 }
+
+/*--Pokécord#4503--*/
+.avatar-large[style*="365975655608745985"],
+.avatar-small[style*="365975655608745985"],
+.image-33JSyf[style*="365975655608745985"],
+.avatarDefault-35WC3R[style*="365975655608745985"],
+.avatarSpeaking-1wJCNq[style*="365975655608745985"] {
+background: url('https://cdn.discordapp.com/avatars/365975655608745985/b2e5c4beff910f3ad9efd7a4211ae2ae.png?size=1024') !important;
+background-size: cover !important;
+}
+
+/*--KawaiiBot#0769--*/
+.avatar-large[style*="195244363339530240"],
+.avatar-small[style*="195244363339530240"],
+.image-33JSyf[style*="195244363339530240"],
+.avatarDefault-35WC3R[style*="195244363339530240"],
+.avatarSpeaking-1wJCNq[style*="195244363339530240"] {
+background: url('https://cdn.discordapp.com/avatars/195244363339530240/ec4594ead877809a2a53bade17f3cc94.png?size=1024') !important;
+background-size: cover !important;
+}
