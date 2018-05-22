@@ -888,8 +888,18 @@ animation: glitch 750ms infinite;
 
 .placeholderAvatar-uzH8f6,
 .placeholderUsername-236yYU,
-.memberGroupsPlaceholder-3mwPub {
+.memberGroupsPlaceholder-3mwPub,
+.inviteModal-34DdOm .scroller-3__pG8 {
 background: rgba(0,0,0,var(--BMT-main-transparency));
+}
+
+.inviteModal-34DdOm .inviteTitle-2-D7Bk {
+color: rgba(var(--BMT-main-color),1);
+}
+
+.inviteModal-34DdOm .avatar-xxxlarge {
+border-radius: 15px;
+background-color: transparent;
 }
 
 /*--Toast--*/
