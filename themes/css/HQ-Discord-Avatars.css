@@ -98,3 +98,13 @@ background-size: cover !important;
 background: url('https://cdn.discordapp.com/avatars/195244363339530240/ec4594ead877809a2a53bade17f3cc94.png?size=1024') !important;
 background-size: cover !important;
 }
+
+/*--Vexera#8487--*/
+.avatar-large[style*="228537642583588864"],
+.avatar-small[style*="228537642583588864"],
+.image-33JSyf[style*="228537642583588864"],
+.avatarDefault-35WC3R[style*="228537642583588864"],
+.avatarSpeaking-1wJCNq[style*="228537642583588864"] {
+background: url('https://cdn.discordapp.com/avatars/228537642583588864/641ef03272d6eaa095ad0bdc83795d64.png?size=512') !important;
+background-size: cover !important;
+}
