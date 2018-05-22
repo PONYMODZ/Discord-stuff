@@ -69,3 +69,12 @@ background: url('https://cdn.discordapp.com/avatars/155149108183695360/5aeb68c29
 background-size: cover !important;
 }
 
+/*--Zira#3834--*/
+.avatar-large[style*="275813801792634880"],
+.avatar-small[style*="275813801792634880"],
+.image-33JSyf[style*="275813801792634880"],
+.avatarDefault-35WC3R[style*="275813801792634880"],
+.avatarSpeaking-1wJCNq[style*="275813801792634880"] {
+background: url('https://cdn.discordapp.com/avatars/275813801792634880/00cb52ff076af727558f8830bcd2c63a.png?size=1024') !important;
+background-size: cover !important;
+}
