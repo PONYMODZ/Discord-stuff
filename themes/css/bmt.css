@@ -330,7 +330,7 @@ border-bottom-color: rgba(var(--BMT-main-color),1) !important;
 }
 
 .tooltip.tooltip-left:after {
-border-left-color: rgba(var(--BMT-main-color),1);
+border-left-color: rgba(var(--BMT-main-color),1) !important;
 }
 
 .contextMenu-HLZMGh.theme-dark {
@@ -943,6 +943,10 @@ color: black;
 background: rgba(0,0,0,var(--BMT-main-transparency));
 background-image: none;
 box-shadow: -20px 0 rgba(var(--BMT-main-color),1), 20px 0 rgba(var(--BMT-main-color),1), -20px -1px 0 0 rgba(var(--BMT-main-color),1), -20px 1px 0 rgba(var(--BMT-main-color),1), 20px 1px 0 rgba(var(--BMT-main-color),1), 20px -1px 0 rgba(var(--BMT-main-color),1);
+}
+
+.theme-dark .reactionSelected-1pqISm {
+background-color: rgba(var(--BMT-main-color),.8);
 }
 
 /*--Toast--*/
@@ -1899,7 +1903,9 @@ box-shadow: none;
 .theme-dark .private-channel-call.minimum 
 .private-channel-call-actions .center,
 .create-guild-container.deprecated,
-.create-guild-container.deprecated .action {
+.create-guild-container.deprecated .action,
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw,
+.theme-dark .sidebar-1-SQro {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .theme-dark .headerBar-UHpsPw,
