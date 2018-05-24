@@ -98,6 +98,22 @@ padding-left:68px;
 content: var(--BMT-author);
 }
 
+/*DEV*/
+.chat .avatar-large[style*="288633425303437312"]::after {
+content: "Developer";
+text-align: center;
+-webkit-background-clip: text;
+background-image: linear-gradient(to right , #f00,#ff0,#0ff,#0f0,#00f);
+animation: rainbow 20s linear infinite;
+background-size: 1000%;
+color: transparent;
+display: block;
+margin-top: 49px;
+font-size: 10px;
+text-transform: uppercase;
+font-weight: bolder;
+}
+
 /*--Title Bar--*/
 .wordmark-2iDDfm::before{content: var(--BMT-text);color: #5a5a5a;font-size: 16px;font-weight: 600;position: fixed;right: 15%;top: 5px;}
 
