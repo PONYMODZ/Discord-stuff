@@ -7,7 +7,7 @@
 --BMT-text: "❤️🦄❤️";
 --BMT-version: "v0.3";
 --BMT-author: "PONYMODZ";
---BMT-version-full: var(--BMT-name)" "var(--BMT-version)" by PONYMODZ";
+--BMT-version-full: var(--BMT-name)" "var(--BMT-version)" by";
 --BMT-wordmark: var(--BMT-name)" "var(--BMT-version);
 --BMT-load1: "This";
 --BMT-load2: "is a";
@@ -87,8 +87,15 @@ background-repeat: no-repeat;
 /*--Better Discord Stuff--*/
 #bd-settings-sidebar > span > div:nth-child(3)::after {
 display:block;
-padding-top:5px;
+margin-top:-12px;
 content: var(--BMT-version-full);
+}
+
+#bd-settings-sidebar > span > div:nth-child(3) a::after {
+display:block;
+padding-top:5px;
+padding-left:68px;
+content: var(--BMT-author);
 }
 
 /*--Title Bar--*/
@@ -900,6 +907,19 @@ color: rgba(var(--BMT-main-color),1);
 .inviteModal-34DdOm .avatar-xxxlarge {
 border-radius: 15px;
 background-color: transparent;
+}
+
+.spinner-wandering-cubes .spinner-item {
+background-color: rgba(var(--BMT-main-color),1);
+}
+
+.theme-dark .chat .has-more button {
+background: rgba(var(--BMT-main-color),1);
+border-color: rgba(var(--BMT-main-color),1);
+}
+
+.chat .has-more button {
+color: black;
 }
 
 /*--Toast--*/
