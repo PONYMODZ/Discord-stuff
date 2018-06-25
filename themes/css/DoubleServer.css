@@ -1,0 +1,68 @@
+/*--2 Channels--*/ /*WIP*/
+.guilds-wrapper {
+width: 165px;
+}
+
+.guilds-wrapper .scroller-wrap {
+width: 170px;
+}
+
+.guilds-wrapper .guilds,
+.guilds-wrapper .guilds .dms {
+flex-flow: row wrap;
+display: flex;
+}
+
+.guilds-wrapper .guilds .friends-online,
+.guilds-add {
+margin-top: 5px !important;
+margin-left: -8px !important;
+}
+
+.guilds-wrapper .guilds .friends-online {
+padding-top: 50px !important;
+margin-right: -22px;
+}
+
+.guilds-wrapper .guilds .guild-separator {
+top: 0px !important;
+}
+
+.guilds-wrapper .guild-separator {
+right: 5px;
+width: 130px;
+}
+
+.guilds-wrapper .guilds .guild:first-child {
+right: 43px;
+top: -15px;
+}
+
+.guilds-wrapper .guilds .dms .guild:first-child {
+right: 10px;
+top: 0px;
+}
+
+.guilds-wrapper .guilds .guild {
+margin-left: 15px;
+right: 10px;
+margin-top: 15px;
+}
+
+.guilds-wrapper .guilds .dms {
+margin-top: -15px;
+margin-bottom: 15px;
+}
+
+.guilds-wrapper .guilds-add {
+top: 10px;
+margin-bottom: 10px;
+}
+
+/* ReadAllNotificationsButton Support*/
+#RANbutton-frame.guild {
+margin-top: -5px !important;
+margin-right: 33px;
+}
+
+/*--2 Channels END--*/
