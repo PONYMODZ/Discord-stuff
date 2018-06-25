@@ -3,15 +3,15 @@
 
 
 @import url('https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css'); /* Animated Emojis by https://github.com/jakeoid */
-@import url('https://rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/HQ-Discord-Avatars.css'); /* My HQ BOT Avatar Repo */
-@import url('https://rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/pony-stuff.css'); /* MLP Elements */
+@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/HQ-Discord-Avatars.css'); /* My HQ BOT Avatar Repo */
+@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/pony-stuff.css'); /* MLP Elements */
 
 /*  🡱 Delete the imports you dont want 🡱  */
 
 /*  🡳 Always use RGB 🡳  */
 
 :root {
---BMT-main-transparency: 0.5;
+--BMT-main-transparency: 0.6;
 --BMT-main-color: 255,0,178;
 --BMT-hover-color: 174,0,121;
 --BMT-tag-color: 41,234,23;
@@ -23,6 +23,7 @@
 --BMT-background: url('https://i.imgur.com/x8ajUyb.jpg');
 --BMT-load-background: url('https://i.imgur.com/8E1Rgb5.png');
 --BMT-friends: url('https://i.imgur.com/YAIHRAf.gif');
+--BMT-error: url('https://i.imgur.com/ccbh2ZA.jpg');
 }
 
 
