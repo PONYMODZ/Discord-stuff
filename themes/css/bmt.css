@@ -1513,7 +1513,7 @@ background-color: rgba(0,0,0,0);
 box-shadow: inset 0 0 0 3px #d01414;
 }
 
-[class*=container-2Thooq] [class*=dnd], 
+[class*=container-2Thooq] [class*=offline], 
 [class*=friendWrapper-2fdY14] [class*=offline], 
 [class*=private-channels] [class*=offline] {
 top: -4px !important;
@@ -1526,7 +1526,7 @@ background-color: rgba(0,0,0,0);
 box-shadow: inset 0 0 0 3px #282829;
 }
 
-[class*=container-2Thooq] [class*=dnd], 
+[class*=container-2Thooq] [class*=invisible], 
 [class*=friendWrapper-2fdY14] [class*=invisible], 
 [class*=private-channels] [class*=invisible] {
 top: -4px !important;
