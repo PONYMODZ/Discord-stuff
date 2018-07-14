@@ -1911,7 +1911,8 @@ box-shadow: none;
 .theme-dark .attachPopout-1n-ZKM, .theme-dark .gamePreview-9weYR2,
 .info-P9dFwH, .news-2KwXHF, .newsLink-38Naqi:hover, .news-2GDtLJ,
 .theme-dark .body-SKIE6r, .article-FleDq5, .theme-dark .dockItem-2kQDqg:hover,
-.carousel-JbsNzL, .search-bar, .theme-dark .container-1rPqdX {
+.carousel-JbsNzL, .search-bar, .theme-dark .container-1rPqdX,
+.theme-dark .popoutList-T9CKZQ {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .appMount-3VJmYg,
