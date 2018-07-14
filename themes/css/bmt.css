@@ -1087,6 +1087,13 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency))!important;
 background-color: rgba(67,181,129,1);
 }
 
+.colorblindMode .idle-3DEnRT, 
+.colorblindMode .dnd-1_xrcq, 
+.colorblindMode .invisible-1kp8Z0,
+.colorblindMode .offline-3qoTek {
+background-image: none !important;
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
@@ -1904,7 +1911,7 @@ box-shadow: none;
 .theme-dark .attachPopout-1n-ZKM, .theme-dark .gamePreview-9weYR2,
 .info-P9dFwH, .news-2KwXHF, .newsLink-38Naqi:hover, .news-2GDtLJ,
 .theme-dark .body-SKIE6r, .article-FleDq5, .theme-dark .dockItem-2kQDqg:hover,
-.carousel-JbsNzL, .search-bar {
+.carousel-JbsNzL, .search-bar, .theme-dark .container-1rPqdX {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .appMount-3VJmYg,
