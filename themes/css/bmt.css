@@ -6,7 +6,7 @@
 :root {
 --BMT-name: "BMT";
 --BMT-text: "❤️🦄❤️";
---BMT-version: "v0.3";
+--BMT-version: "v0.4";
 --BMT-author: "PONYMODZ";
 --BMT-version-full: var(--BMT-name)" "var(--BMT-version) " by";
 --BMT-wordmark: var(--BMT-name)" "var(--BMT-version);
