@@ -1094,6 +1094,14 @@ background-color: rgba(67,181,129,1);
 background-image: none !important;
 }
 
+.scroller-2CvAgC .da-selected {
+background: rgba(var(--BMT-hover-color),1);
+}
+
+.theme-dark .selectableItem-1MP3MQ:hover {
+background-color: rgba(var(--BMT-hover-color),1);
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
@@ -1648,20 +1656,19 @@ border-radius: 4px;
 }
 
 /*--Connection Info--*/
-.popout-3sVMXz header {
+.theme-dark .container-2x5lvQ header {
 background-color: rgba(var(--BMT-main-color),1);
 }
 
-.popout-3sVMXz section {
+.theme-dark .container-2x5lvQ section {
 background-color: rgba(0,0,0,.7);
 }
 
-.popoutTopRight-3BzFIE section:after, 
-.popoutTop-3uu9vG section:after {
+.theme-dark .container-2x5lvQ section:after {
 border-top-color: rgba(0,0,0,.7);
 }
 
-.container-3nXdBP hr {
+.container-2x5lvQ hr {
 border: 0px;
 }
 
