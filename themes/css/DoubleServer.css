@@ -1,66 +1,65 @@
-/*--2 Channels--*/ /*WIP*/
-.guilds-wrapper {
+/*--2 Channels--*/
+.guildsWrapper-5TJh6A {
 width: 165px;
 }
 
-.guilds-wrapper .scroller-wrap {
+.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv {
 width: 170px;
 }
 
-.guilds-wrapper .guilds,
-.guilds-wrapper .guilds .dms {
-flex-flow: row wrap;
-display: flex;
+.guildsWrapper-5TJh6A .guilds-1q_RqH,
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
+flex-flow: row wrap !important;
+display: flex !important;
 }
 
-.guilds-wrapper .guilds .friends-online,
-.guilds-add {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
+.guildsAdd-21_IdK {
 margin-top: 5px !important;
 margin-left: -8px !important;
 }
 
-.guilds-wrapper .guilds .friends-online {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {
 padding-top: 50px !important;
 margin-right: -22px;
 }
 
-.guilds-wrapper .guilds .guild-separator {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {
 top: 0px !important;
 }
 
-.guilds-wrapper .guild-separator {
-right: 5px;
+.guildsWrapper-5TJh6A .guildSeparator-1X4GQ1{
+right: 3px;
 width: 130px;
 }
 
-.guilds-wrapper .guilds .guild:first-child {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {
 right: 43px;
 top: -15px;
 }
 
-.guilds-wrapper .guilds .dms .guild:first-child {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ:first-child {
 right: 10px;
 top: 0px;
 }
 
-.guilds-wrapper .guilds .guild {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {
 margin-left: 15px;
 right: 10px;
 margin-top: 15px;
 }
 
-.guilds-wrapper .guilds .dms {
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
 margin-top: -15px;
 margin-bottom: 15px;
 }
 
-.guilds-wrapper .guilds-add {
+.guildsWrapper-5TJh6A .guildsAdd-21_IdK {
 top: 10px;
 margin-bottom: 10px;
 }
-
-/* ReadAllNotificationsButton Support*/
-#RANbutton-frame.guild {
+/*ReadAllNotificationsButton Support*/
+#RANbutton-frame.guild-1EfMGQ  {
 margin-top: -5px !important;
 margin-right: 33px;
 }
