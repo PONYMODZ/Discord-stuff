@@ -114,7 +114,7 @@ content: var(--BMT-author);
 }
 
 /*DEV*/
-.chat .avatar-large[style*="288633425303437312"]::after {
+.chat .large-3ChYtB[style*="288633425303437312"]::after {
 content: "Developer";
 text-align: center;
 -webkit-background-clip: text;
