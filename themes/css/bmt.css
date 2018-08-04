@@ -2027,7 +2027,7 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .channels-Ie2l6A, .guilds-wrapper,
 .container-PNkimc, .theme-dark .title-3qD0b-,
 .theme-dark .members-1998pB,
-.theme-dark .chat form, .wrapper-2NJDcI,
+.theme-dark .chat-3bRxxu form, .wrapper-2NJDcI,
 .container-2Thooq, .container-1UB9sr,
 .guilds-wrapper .guilds .guild.audio .guild-inner:after, 
 .guilds-wrapper .guilds .guild.video .guild-inner:after,
@@ -2044,7 +2044,8 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .inviteIcon-DSd8cG, .theme-dark .body-1SVoBw,
 .theme-dark .guildsWrapper-5TJh6A, 
 .theme-dark .guildIconEmptyBackground-14tfYf,
-.theme-dark .chat-3bRxxu, .theme-dark .messagesWrapper-3lZDfY {
+.theme-dark .chat-3bRxxu, .theme-dark .messagesWrapper-3lZDfY,
+.theme-dark .content-yTz4x3 {
 background-color: rgba(0,0,0,.0);
 }
 
