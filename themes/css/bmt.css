@@ -1103,11 +1103,11 @@ background-image: none !important;
 }
 
 .scroller-2CvAgC .da-selected {
-background: rgba(var(--BMT-hover-color),1);
+background: rgba(var(--BMT-main-color),1) !important;
 }
 
 .theme-dark .selectableItem-1MP3MQ:hover {
-background-color: rgba(var(--BMT-hover-color),1);
+background-color: rgba(0,0,0,1);
 }
 
 .theme-dark .markup-2BOw-j pre {
@@ -1199,6 +1199,11 @@ background-color: rgba(200,0,0,1);
 
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
 color: rgba(255,255,255,1);
+}
+
+.theme-dark .auditLog-3jNbM6 {
+border-color: rgba(0,0,0,var(--BMT-main-transparency));
+color: #72767d;
 }
 
 /*--Toast--*/
@@ -2018,7 +2023,11 @@ box-shadow: none;
 .info-P9dFwH, .news-2KwXHF, .newsLink-38Naqi:hover, .news-2GDtLJ,
 .theme-dark .body-SKIE6r, .article-FleDq5, .theme-dark .dockItem-2kQDqg:hover,
 .carousel-JbsNzL, .search-bar, .theme-dark .container-1rPqdX,
-.theme-dark .popoutList-T9CKZQ, .theme-dark .container-3cGP6G {
+.theme-dark .popoutList-T9CKZQ, .theme-dark .container-3cGP6G,
+.theme-dark .reaction, .search-bar-light .searchBarInner-1_Tg2R,
+.theme-dark .headerDefault-1wrJcN, .theme-dark .headerClickable-2IVFo9,
+.theme-dark .headerExpanded-CUEwZ5, .theme-dark .changeDetails-bk98pu,
+.theme-dark .divider-1pnAR2 {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .appMount-3VJmYg,
@@ -2029,8 +2038,8 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .theme-dark .members-1998pB,
 .theme-dark .chat-3bRxxu form, .wrapper-2NJDcI,
 .container-2Thooq, .container-1UB9sr,
-.guilds-wrapper .guilds .guild.audio .guild-inner:after, 
-.guilds-wrapper .guilds .guild.video .guild-inner:after,
+.theme-dark .guild-1EfMGQ.audio-3vVhBi .guildInner-3DSoA4:after, 
+.theme-dark .guild-1EfMGQ.video-15yGu3 .guildInner-3DSoA4:after,
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ,
 .theme-dark .ui-standard-sidebar-view,
 .theme-dark .private-channel-recipients-invite .friend.selected,
