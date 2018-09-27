@@ -11,6 +11,7 @@ width: 170px;
 .guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
 flex-flow: row wrap !important;
 display: flex !important;
+align-content: flex-start !important;
 }
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
@@ -58,6 +59,7 @@ margin-bottom: 15px;
 top: 10px;
 margin-bottom: 10px;
 }
+
 /*ReadAllNotificationsButton Support*/
 #RANbutton-frame.guild-1EfMGQ  {
 margin-top: -5px !important;
