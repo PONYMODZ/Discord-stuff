@@ -2115,8 +2115,9 @@ background: transparent !important;
 .popout.popout-bottom-right.no-arrow.no-shadow,
 .private-channels .search-bar,
 .chat form .channel-text-area-default,
-.headerBar-UHpsPw {
+.headerBar-UHpsPw, .searchBar-6Kv8R2 {
 box-shadow: none;
+-webkit-box-shadow: none;
 }
 .container-2lgZY8, .titleBar-AC4pGV, .theme-dark .passthroughSelected-1Eq0Kl,
 .theme-dark .ui-standard-sidebar-view .sidebar-region,
