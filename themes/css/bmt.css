@@ -2191,3 +2191,27 @@ background: transparent;
 .theme-dark .private-channel-recipients-invite .friend:hover {
 background: rgba(0,0,0,var(--BMT-main-transparency));
 }
+
+
+
+
+body:before {
+content: "Please Download BMT.theme.css again to have the new options Thx \A \A This Message will be removed in 1 Week";
+white-space: pre-wrap;
+z-index: 1000000000000000000000000;
+color: #fff;
+font-weight: bold;
+background: rgb(var(--BMT-main-color));
+top: 0px;
+left: 50%;
+position: absolute;
+border-radius: 5px;
+padding: 5px 15px;
+-webkit-transform: translate(-50%, -100%);
+transform: translate(-50%, -100%);
+-webkit-animation: version 10s ease;
+animation: version 10s ease;
+-webkit-animation-delay: 5s;
+animation-delay: 5s;
+}
+
