@@ -1,0 +1,69 @@
+/*--3 Channels--*/ 
+.guildsWrapper-5TJh6A {
+width: 225px;
+}
+
+.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv {
+width: 235px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH,
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
+flex-flow: row wrap !important;
+display: flex !important;
+align-content: flex-start !important;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
+.guildsAdd-21_IdK {
+margin-top: 5px !important;
+margin-left: -5px !important;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {
+padding-top: 50px !important;
+margin-right: 11px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {
+top: 0px !important;
+}
+
+.guildsWrapper-5TJh6A .guildSeparator-1X4GQ1{
+right: 25px;
+width: 150px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {
+right: 76px;
+top: -15px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV .guild-1EfMGQ:first-child {
+right: 10px;
+top: 0px
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {
+margin-left: 15px;
+right: 10px;
+margin-top: 15px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .dms-rcsEnV {
+margin-top: -15px;
+margin-bottom: 15px;
+}
+
+.guildsWrapper-5TJh6A .guildsAdd-21_IdK {
+top: 10px;
+margin-bottom: 10px;
+}
+
+/*ReadAllNotificationsButton Support*/ 
+#RANbutton-frame.guild-1EfMGQ  {
+margin-top: -5px !important;
+margin-right: 67px;
+}
+
+/*--3 Channels END--*/
