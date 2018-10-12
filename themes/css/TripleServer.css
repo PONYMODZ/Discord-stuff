@@ -17,12 +17,16 @@ align-content: flex-start !important;
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM,
 .guildsAdd-21_IdK {
 margin-top: 5px !important;
-margin-left: -5px !important;
+margin-left: -8px !important;
+}
+
+div.friendsOnline-_wi_fM {
+width: 110px !important;
 }
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {
 padding-top: 50px !important;
-margin-right: 11px;
+margin-right: -19px;
 }
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guildSeparator-1X4GQ1 {
@@ -30,8 +34,8 @@ top: 0px !important;
 }
 
 .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1{
-right: 25px;
-width: 150px;
+right: 0px;
+width: 205px;
 }
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:first-child {
@@ -62,8 +66,9 @@ margin-bottom: 10px;
 
 /*ReadAllNotificationsButton Support*/ 
 #RANbutton-frame.guild-1EfMGQ  {
-margin-top: -5px !important;
-margin-right: 67px;
+margin-top: -12px !important;
+margin-right: 66px;
+width: 110px;
 }
 
-/*--3 Channels END--*/
+/*--3 Channels END--*/ 
