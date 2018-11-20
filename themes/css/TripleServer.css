@@ -64,6 +64,10 @@ top: 10px;
 margin-bottom: 10px;
 }
 
+#friends .friends-table .friends-column-guilds {
+width: 120px;
+}
+
 /*ReadAllNotificationsButton Support*/ 
 #RANbutton-frame.guild-1EfMGQ  {
 margin-top: -12px !important;
