@@ -1447,6 +1447,13 @@ background: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,var(--BMT
 background: linear-gradient(90deg,rgba(0,0,0,var(--BMT-main-transparency)),rgba(0,0,0,var(--BMT-main-transparency)));
 }
 
+.popoutBottom-1YbShG {
+-webkit-animation: topdown .5s !important;
+animation: topdown .5s !important;
+-webkit-transform: translate(-50%) !important;
+transform: translate(-50%) !important;
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
