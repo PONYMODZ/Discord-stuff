@@ -691,8 +691,13 @@ box-shadow: 0 0 0 1px rgba(0,0,0,.6), 0 1px 5px 0 rgba(0,0,0,.3);
 background-color: rgba(0,0,0,.5);
 }
 
-.theme-dark .input-cIJ7To:focus {
+.theme-dark .input-cIJ7To:focus,
+.theme-dark .user-settings-games .game-name-input:focus {
 border-color: rgba(var(--BMT-main-color),1);
+}
+
+.theme-dark .user-settings-games .game-name-input:hover {
+border-color: transparent;
 }
 
 .theme-dark .autocomplete-1vrmpx {
@@ -1373,14 +1378,6 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency)) !important;
 background: rgba(var(--BMT-main-color),1) !important;
 }
 
-.theme-dark .popout-2xBvMR:first-child {
-transform: translateX(-5px) translateY(-50%) translateZ(0px) !important;
-}
-
-div.popout-2xBvMR.popoutWithoutSocial-3vnqun.popoutWrapperLeft-2U6Gch.popoutWrapper-36A-2i {
-transform: translateX(5px) translateY(-50%) translateZ(0px) !important;
-}
-
 .theme-dark .popout-2xBvMR {
 width: 210px;
 }
@@ -1454,6 +1451,24 @@ animation: topdown .5s !important;
 transform: translate(-50%) !important;
 }
 
+.theme-dark .themedPopout-25DgLi {
+background-color: rgba(0,0,0,var(--BMT-main-transparency));
+border: 1px solid rgba(0,0,0,var(--BMT-main-transparency));
+}
+
+
+.theme-dark .tileMedia-1q3guD,
+.theme-dark .tileMedia-1q3guD:hover,
+.theme-dark .applicationTile-1Goy1W,
+.theme-dark .applicationTile-1Goy1W:hover {
+background-color: rgba(0,0,0,0);
+}
+
+.theme-dark .description-3rB3Rp,
+.theme-dark .mediaFade-1SdEfL {
+background: rgba(0,0,0,0);
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
@@ -1469,6 +1484,7 @@ z-index: 1;
 
 .carousel-2WxMes {
 margin-top: 30px;
+background-color: rgb(0,0,0);
 }
 
 .pagination-1GYdtQ {
@@ -1488,7 +1504,7 @@ margin: 18px 18px !important;
 background: rgba(0,0,0,1)
 }
 
-.paginationItem-2lUq0s:after {
+.theme-dark .paginationItem-2lUq0s:after {
 background: -webkit-gradient(linear,right top,left top,from(transparent),to(rgb(0,0,0)));
 background: linear-gradient(270deg,transparent 0,rgb(0,0,0));
 }
@@ -2337,7 +2353,9 @@ box-shadow: none;
 .theme-dark .container-2Zlzt0, .theme-dark .searchBox-3Y2Vi7,
 .theme-dark .wrapper-2ZbzR9, .theme-dark #autocomplete-popout .autocomplete-arrow, 
 .theme-dark #autocomplete-popout .autocomplete-header-background,
-.theme-dark #autocomplete-popout section {
+.theme-dark #autocomplete-popout section, .theme-dark .content-35aVm0, 
+.theme-dark .keyboardShortcutsModal-3piNz7, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse,
+.theme-dark .user-settings-games .game-name-input:focus, .theme-dark .user-settings-games .game-name-input:hover {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .appMount-3VJmYg,
