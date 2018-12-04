@@ -1469,6 +1469,10 @@ background-color: rgba(0,0,0,0);
 background: rgba(0,0,0,0);
 }
 
+.chat-3bRxxu .applicationTile-1Goy1W {
+background-color: rgba(0,0,0,var(--BMT-main-transparency)) !important;
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
@@ -2223,13 +2227,9 @@ animation:hoverzoom 0.2s;
 border-radius: 5px !important;
 }
 
-/*--Nitro Badge--*/
-.message-group:not(.compact) 
-.avatar-large[style*="/a_"] ~ .comment 
-.message h2 span.username-wrapper::after,.channel-members 
-.member .avatar-small[style*="/a_"] ~ .member-inner 
-.member-username 
-.member-username-inner::after {
+/*--Nitro Badge--*/ /* Won't work anymore :( */
+.chat-3bRxxu .large-3ChYtB[style*="/a_"] ~ h2 span.username-_4ZSMR::after,
+.members-1998pB .member-3W1lQa .image-33JSyf[style*="/a_"] ~ .memberInner-2CPc3V span.username-1cB_5E::after  {
 content: "Nitro";
 background: rgba(0,0,0,0.5);
 color: #fff;
@@ -2387,7 +2387,8 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .theme-dark .applicationStore-1pNvnv,
 .theme-dark .gameLibrary-TTDw4Y,
 .theme-dark .header-39GIC8, .theme-dark .tileMedia-24cT6_,
-.theme-dark .gameUpdates-2GPqBU {
+.theme-dark .gameUpdates-2GPqBU, .theme-dark .guild-1EfMGQ.audio-3vVhBi:after, 
+.theme-dark .guild-1EfMGQ.video-15yGu3:after {
 background-color: rgba(0,0,0,.0);
 }
 
