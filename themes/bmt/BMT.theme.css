@@ -1,11 +1,14 @@
 //META{"name":"Discord_BMT","description":"A highly Customizable Discord Theme. If you find something broken/un-themed contact me BMT#0069.","author":"PONYMODZ","version":"0.3","source":"https://github.com/PONYMODZ/Discord-stuff/tree/master/themes/bmt"}*//
-@import url('https://rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/bmt.css'); /*IMPORTANT DONT DELETE THIS LINE!*/
+@import url('https://cdn.staticaly.com/gh/PONYMODZ/Discord-stuff/master/themes/css/bmt.css'); /*IMPORTANT DONT DELETE THIS LINE!*/
 
-@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/DoubleServer.css'); /* Double Server Bar */
-@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/TripleServer.css'); /* Triple Server Bar */
-@import url('https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css'); /* Animated Emojis by https://github.com/jakeoid */
-@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/HQ-Discord-Avatars.css'); /* My HQ BOT Avatar Repo */
-@import url('https://cdn.rawgit.com/PONYMODZ/Discord-stuff/master/themes/css/pony-stuff.css'); /* MLP Elements */
+/*  🡳 Only Pick One 🡳  */
+@import url('https://cdn.staticaly.com/gh/PONYMODZ/Discord-stuff/master/themes/css/DoubleServer.css'); /* Double Server Bar */
+@import url('https://cdn.staticaly.com/gh/PONYMODZ/Discord-stuff/master/themes/css/TripleServer.css'); /* Triple Server Bar */
+/*  🡱 Only Pick One 🡱  */
+
+@import url('https://cdn.staticaly.com/gh/jakeoid/discord-emoji-anim/master/stylesheet.css'); /* Animated Emojis by https://github.com/jakeoid */
+@import url('https://cdn.staticaly.com/gh/PONYMODZ/Discord-stuff/master/themes/css/HQ-Discord-Avatars.css'); /* My HQ BOT Avatar Repo */
+@import url('https://cdn.staticaly.com/gh/PONYMODZ/Discord-stuff/master/themes/css/pony-stuff.css'); /* MLP Elements */
 
 /*  🡱 Delete the imports you dont want 🡱  */
 
