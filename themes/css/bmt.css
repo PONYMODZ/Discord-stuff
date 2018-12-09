@@ -1474,6 +1474,18 @@ background: rgba(0,0,0,0);
 background-color: rgba(0,0,0,var(--BMT-main-transparency)) !important;
 }
 
+.theme-dark .action-1lSjCi:nth-child(1) .topLayer-1eMqbv.hover-3nZwuJ {
+fill: rgba(var(--BMT-main-color),1) !important;
+}
+
+.theme-dark .action-1lSjCi:nth-child(1) .bottomLayer-XCk80b.hover-3nZwuJ {
+fill: rgba(var(--BMT-hover-color),1) !important;
+}
+
+.theme-dark .action-1lSjCi:hover .actionHeader-2CT5c7 {
+color: rgba(var(--BMT-main-color),1) !important;
+}
+
 /*--Toast--*/
 .toast {
 background: rgba(var(--BMT-main-color),1) !important;
