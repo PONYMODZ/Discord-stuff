@@ -391,16 +391,19 @@ box-shadow: 0 0 0 1px rgba(0,0,0,.6), 0 2px 10px 0 rgba(0,0,0,.6);
 }
 
 .theme-dark #friends .tab-bar 
-.tab-bar-item.tab-bar-item-primary {
+.tab-bar-item.tab-bar-item-primary,
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL {
 background-color: rgba(var(--BMT-main-color),1);
 }
 
 .theme-dark #friends .tab-bar 
-.tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
+.tab-bar-item.tab-bar-item-primary:hover:not(.selected),
+.theme-dark .topPill-30KHOu .item-PXvHYJ:hover:not(.itemSelected-1qLhcL) {
 background-color: rgba(var(--BMT-hover-color),1);
 }
 
-.theme-dark #friends .tab-bar .tab-bar-item.selected {
+.theme-dark #friends .tab-bar .tab-bar-item.selected,
+.theme-dark .topPill-30KHOu .itemSelected-1qLhcL {
 background-color: rgba(var(--BMT-main-color),1);
 color: white;
 }
@@ -2416,7 +2419,8 @@ background-color: rgba(0,0,0,var(--BMT-main-transparency));
 .theme-dark .gameLibrary-TTDw4Y,
 .theme-dark .header-39GIC8, .theme-dark .tileMedia-24cT6_,
 .theme-dark .gameUpdates-2GPqBU, .theme-dark .guild-1EfMGQ.audio-3vVhBi:after, 
-.theme-dark .guild-1EfMGQ.video-15yGu3:after {
+.theme-dark .guild-1EfMGQ.video-15yGu3:after,
+.theme-dark .root-1BQpZw {
 background-color: rgba(0,0,0,.0);
 }
 
