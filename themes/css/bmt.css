@@ -2386,7 +2386,8 @@ box-shadow: none;
 .theme-dark #autocomplete-popout .autocomplete-header-background,
 .theme-dark #autocomplete-popout section, .theme-dark .content-35aVm0, 
 .theme-dark .keyboardShortcutsModal-3piNz7, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse,
-.theme-dark .user-settings-games .game-name-input:focus, .theme-dark .user-settings-games .game-name-input:hover {
+.theme-dark .user-settings-games .game-name-input:focus, .theme-dark .user-settings-games .game-name-input:hover,
+.theme-dark .quickSelectPopout-X1hvgV,.theme-dark .quickSelectPopoutOption-opKBx9:hover {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 .appMount-3VJmYg,
