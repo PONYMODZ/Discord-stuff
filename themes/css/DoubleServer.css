@@ -1,4 +1,4 @@
-/*--2 Channels--*/
+/*--2 Channels--*/ 
 .guildsWrapper-5TJh6A {
 width: 165px;
 }
@@ -60,16 +60,16 @@ top: 10px;
 margin-bottom: 10px;
 }
 
-#friends .friends-table .friends-column-guilds {
+.friendsTable-133bsv .friendsColumnGuilds-2we6jb {
 width: 125px;
 }
 
-#friends .friends-table .friends-column-status {
+.friendsTable-133bsv .friendsColumnStatus-ZH4ho2 {
 width: 200px;
 }
 
-/*ReadAllNotificationsButton Support*/
-#RANbutton-frame.guild-1EfMGQ  {
+/*ReadAllNotificationsButton Support*/ 
+#bd-pub-li.guild-1EfMGQ  {
 margin-top: -5px !important;
 margin-right: 33px;
 }
