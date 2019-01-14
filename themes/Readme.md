@@ -7,11 +7,13 @@ Need help with a Theme? Contact me BMT#0069
 **Description:** <i>A highly customizable Discord Theme (Only for Dark Mode)</i>
 **Note:** <i>All MLP stuff is removeable</i>
 
-![](https://i.imgur.com/iiwCqLO.png)
+![](https://i.imgur.com/XfjYntG.png)
 
-![](https://i.imgur.com/ItbIiHh.png)
+![](https://i.imgur.com/Q69VQFn.png)
 
-![](https://i.imgur.com/b40is94.png)
+![](https://i.imgur.com/nBFPw5W.png)
+
+![](https://i.imgur.com/FpotPTn.png)
 
 ## <DIV ALIGN=CENTER>Credits</div>
 Thanks to all of these people
