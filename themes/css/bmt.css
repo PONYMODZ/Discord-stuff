@@ -65,7 +65,7 @@ animation: glowon 1s infinite alternate;
 }
 
 /*--Background--*/
-.appMount-3VJmYg, .callout-backdrop, 
+.appMount-3lHmkl, .callout-backdrop, 
 .userPopout-11hFKo::before, .topSectionStreaming-1Tpf5X, 
 .topSectionPlaying-1J5E4n, .topSectionSpotify-1lI0-P, 
 .topSectionNormal-2-vo2m, .topSectionXbox-3fWLjS { 
@@ -2047,12 +2047,13 @@ box-shadow: inset 0 0 0 3px #593695;
 }
 
 .image-33JSyf,
-.container-3gCOGc .avatar-small,
-.privateChannels-1nO12o .channel-2QD9_O .avatar-small,
-.friend-2PO6ke .avatar-small,
-#friends .friendsTable-133bsv .friendsRow-2yicud 
-.friends-column-name .avatar-small {
+.container-3gCOGc .avatarSmall-3ACRaI .inner-1W0Bkn,
+.privateChannels-1nO12o .channel-2QD9_O .avatarSmall-3ACRaI .inner-1W0Bkn,
+.friend-2PO6ke .avatarSmall-3ACRaI .inner-1W0Bkn,
+.friendsTable-133bsv .friendsRow-2yicud 
+.friends-column-name .avatarSmall-3ACRaI .inner-1W0Bkn {
 border-radius: 4px !important;
+background-size: 100% 100% !important;
 }
 
 .mask-3OgeRz {
