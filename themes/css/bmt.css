@@ -465,7 +465,7 @@ opacity:1;
 overflow: visible;
 }
 
-.avatar-xxlarge, .avatarUploaderInner-3UNxY3 {
+.avatarXXLarge-GhVtwJ .inner-1W0Bkn, .avatarUploaderInner-3UNxY3 {
 border-radius: 5px;
 background-color: rgba(0,0,0,0);
 }
@@ -697,7 +697,7 @@ background-color: rgba(0,0,0,.5);
 }
 
 .theme-dark .input-cIJ7To:focus,
-.theme-dark .user-settings-games .game-name-input:focus {
+.theme-dark .gameNameInput-385LoS:focus {
 border-color: rgba(var(--BMT-main-color),1);
 }
 
@@ -1282,7 +1282,7 @@ background-color: rgba(0,0,0,0);
 }
 
 .theme-dark .hoverablePayment-Yc6mK7:hover,
-.theme-dark .expanded-v2SzszInfo-3kfShd {
+.theme-dark .expandedInfo-3kfShd {
 background-color: rgba(0,0,0,var(--BMT-main-transparency));
 }
 
@@ -2046,7 +2046,7 @@ background-color: rgba(0,0,0,0);
 box-shadow: inset 0 0 0 3px #593695;
 }
 
-.image-33JSyf,
+.image-33JSyf, .container-2Thooq .avatarSmall-3ACRaI .inner-1W0Bkn,
 .container-3gCOGc .avatarSmall-3ACRaI .inner-1W0Bkn,
 .privateChannels-1nO12o .channel-2QD9_O .avatarSmall-3ACRaI .inner-1W0Bkn,
 .friend-2PO6ke .avatarSmall-3ACRaI .inner-1W0Bkn,
@@ -2411,7 +2411,7 @@ box-shadow: none;
 .content-region #bd-customcss-attach-controls, 
 #bd-customcss-detach-container #bd-customcss-attach-controls, 
 #bd-customcss-detach-container, .editor, .theme-dark .accountBtnInner-sj5jLs,
-.theme-dark .footer-2VgWkh, .theme-dark .add-game-popout,
+.theme-dark .footer-2VgWkh, .theme-dark .addGamePopout-2RY8Ju,
 .theme-dark .attachPopout-1n-ZKM, .theme-dark .gamePreview-9weYR2,
 .info-P9dFwH, .news-2KwXHF, .newsLink-38Naqi:hover, .news-2GDtLJ,
 .theme-dark .body-SKIE6r, .article-3kb3qm, .theme-dark .dockItem-2kQDqg:hover,
@@ -2433,7 +2433,7 @@ box-shadow: none;
 .theme-dark #autocomplete-popout .autocomplete-header-background,
 .theme-dark #autocomplete-popout section, .theme-dark .content-35aVm0, 
 .theme-dark .keyboardShortcutsModal-3piNz7, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse,
-.theme-dark .user-settings-games .game-name-input:focus, .theme-dark .user-settings-games .game-name-input:hover,
+.theme-dark .gameNameInput-385LoS:focus, .theme-dark .gameNameInput-385LoS:hover,
 .theme-dark .quickSelectPopout-X1hvgV,.theme-dark .quickSelectPopoutOption-opKBx9:hover,
 .theme-dark .option-1l2vXE, .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R,
 .theme-dark .placeholder-1kJjXI, .searchBar-2_Yu-C, .theme-dark .action-1lSjCi, .theme-light .action-1lSjCi,
