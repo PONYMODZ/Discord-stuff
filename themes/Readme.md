@@ -1,6 +1,8 @@
 ## Themes
-Need help with a Theme? Contact me BMT#0069
+Need help with a Theme? Contact me BMT#5018
 * ***All **Themes** go into %AppData%\BetterDiscord\themes***
+
+## [BMT Reborn]() soon™
 
 ## [BMT](https://github.com/PONYMODZ/Discord-stuff/blob/master/themes/bmt/BMT.theme.css) Discontinued
 
